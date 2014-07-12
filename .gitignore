@@ -34,3 +34,11 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# Visual studio
+bin/
+*.suo
+packages/
+DX9FormOverlay/
+Debug/
+Release/
