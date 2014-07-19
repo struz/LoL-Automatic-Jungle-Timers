@@ -1,4 +1,5 @@
-# LoL Automatic Jungle Timers
+# LoL Automatic Jungle Timers (discontinued)
+This project has been discontinued due to Riot's addition of their own in-game jungle timers.
 
 ## About
 This is an automatic jungle timer for League of Legends, inspired by Curse Voice's (now removed) jungle timers. I wanted to see if I could replicate the functionality found in Curse Voice, and it led me into learning proper reverse engineering techniques (eventually ending with the creation of another LoL timing project: [LoL-Ability-Timers](http://github.com/struz/LoL-Ability-Timers)).
